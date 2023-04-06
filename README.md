@@ -32,10 +32,6 @@ I'm currently learning on content creation<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nathal97&theme=buefy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathal97&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Nathal97&icon=7&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nathal97&icon=4&color=10)](https://visitcount.itsvg.in)
