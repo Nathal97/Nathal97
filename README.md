@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-<h3>I'm <strong>Nathalie RAZAFIMANANTSOA</strong></h3>
-I'm currently learning on content creation<br>
+<h3>      I'm <strong>Nathalie RAZAFIMANANTSOA</strong></h3>
+- I'm currently learning on content creation<br>
+- ❤️ I love writing TypeScript and building fun experiments on type-level
 
 
 
