@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nathalie.Razafimanantsoa.73) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Nathal97) 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nathal97&icon=4&color=10)](https://visitcount.itsvg.in)
+
+
+
+[![](https://visitcount.itsvg.in/api?id=Nathal97&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
