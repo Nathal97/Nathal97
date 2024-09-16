@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 # <div align="center">💫 About Me:</div>
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
 ###
 
 <h3 align="center">      I'm <strong>Nathalie RAZAFIMANANTSOA</strong></h3>
