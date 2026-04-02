@@ -26,7 +26,7 @@
 
 ###
 
-### 🎓 Academic Focus (Master 1 @ ISPM)
+### 🎓 Academic Focus (Master 1 @ <a href="http://www.ispm-edu.com">ISPM</a>)
 
 - **AI & Algorithms:** Advanced Algorithmic, Geometric Algorithms.
 - **Security:** Cryptography (RSA, Hill Cipher), Cybersecurity & CTF preparation.
