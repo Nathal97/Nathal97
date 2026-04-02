@@ -5,9 +5,13 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/nathalie-razafimanantsoa-a065092b2/">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kantorazafim">
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  
 </div>
 
 ###
@@ -24,7 +28,7 @@
 
 ### 🎓 Academic Focus (Master 1 @ ISPM)
 
-- **AI & Algorithms:** Advanced Algorithmic (Minimax, Alpha-Beta), Geometric Algorithms (Convex Hull).
+- **AI & Algorithms:** Advanced Algorithmic, Geometric Algorithms.
 - **Security:** Cryptography (RSA, Hill Cipher), Cybersecurity & CTF preparation.
 - **Management:** IT Process Management (ITIL standards), Project Leadership.
 - **Mathematics:** Matrix Theory & LU Decomposition for Computational Intelligence.
